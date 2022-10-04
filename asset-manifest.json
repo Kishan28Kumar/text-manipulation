@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Kishan28Kumar/text-manipulation/static/css/main.abd64e84.css",
-    "main.js": "/Kishan28Kumar/text-manipulation/static/js/main.afd37f84.js",
-    "static/js/787.d3befce1.chunk.js": "/Kishan28Kumar/text-manipulation/static/js/787.d3befce1.chunk.js",
-    "index.html": "/Kishan28Kumar/text-manipulation/index.html",
-    "main.abd64e84.css.map": "/Kishan28Kumar/text-manipulation/static/css/main.abd64e84.css.map",
-    "main.afd37f84.js.map": "/Kishan28Kumar/text-manipulation/static/js/main.afd37f84.js.map",
-    "787.d3befce1.chunk.js.map": "/Kishan28Kumar/text-manipulation/static/js/787.d3befce1.chunk.js.map"
+    "main.css": "/text-manipulation/static/css/main.abd64e84.css",
+    "main.js": "/text-manipulation/static/js/main.01f469ce.js",
+    "static/js/787.d3befce1.chunk.js": "/text-manipulation/static/js/787.d3befce1.chunk.js",
+    "index.html": "/text-manipulation/index.html",
+    "main.abd64e84.css.map": "/text-manipulation/static/css/main.abd64e84.css.map",
+    "main.01f469ce.js.map": "/text-manipulation/static/js/main.01f469ce.js.map",
+    "787.d3befce1.chunk.js.map": "/text-manipulation/static/js/787.d3befce1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.abd64e84.css",
-    "static/js/main.afd37f84.js"
+    "static/js/main.01f469ce.js"
   ]
 }
