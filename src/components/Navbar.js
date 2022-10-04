@@ -32,12 +32,12 @@ export default function Navbar(props) {
                 Home
               </Link> */}
             </li>
-            <li className="nav-item">
+            {/* <li className="nav-item">
               <a href="/about" className="nav-link">About</a>
-              {/* <Link to="/about" className="nav-link">
+              <Link to="/about" className="nav-link">
                About
-              </Link> */}
-            </li>
+              </Link>
+            </li> */}
           </ul>
           {/* <form className="d-flex" role="search">
               <input

@@ -45,9 +45,7 @@ function App() {
         {/* <Navbar />  //for default props */}
         <div className="container my-3">
           {/* <Routes> */}
-            {/* <Route exact path="/about">
-              <About />
-            </Route> */}
+            
             {/* <Route path="/about" element={<About />} /> */}
             {/* <Route
               path="/"
@@ -57,6 +55,9 @@ function App() {
                   heading="Enter the text to analyze"
                   mode={mode}
                 />
+                {/* <a target="_blank" href="/about">
+              <About />
+            </a> */}
               {/* } */}
             {/* /> */}
           {/* </Routes> */}
